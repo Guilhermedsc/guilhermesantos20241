@@ -1,3 +1,12 @@
 # Impressões sobre o curso AWS Academy
 
-O curso da AWS se propõe a ensinar os conceitos de computação em nuvem de forma geral, e nesse ponto eles cumprem bem o que prometem. Primeiramente, o curso é bem estruturado, com uma divisão clara entre os módulos e as aulas. Além disso, o conteúdo é bem explicado, com exemplos práticos e teóricos, o que facilita o entendimento. A plataforma de ensino é bem organizada e de fácil acesso, o que é um ponto positivo. O único problema que posso apontar nesse primeiro momento é o console da AWS, que é confuso e nem um pouco intuitivo. Apesar disso, ainda gostei da escolha de plataforma para o curso, pois ela é muito utilizada no mercado de trabalho. Outra coisa importante é a possibilidade de ganhar um certificado ao final do curso, o que é um grande diferencial.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
