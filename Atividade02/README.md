@@ -1,4 +1,10 @@
-# Questões
+# Questão 01
+
+![image](print.png)
+
+0,10 * 0,5 = 0,5
+
+# Questão 02
 
 1. **Quais são as seis principais vantagens da computação em nuvem?**
     - Resposta:
